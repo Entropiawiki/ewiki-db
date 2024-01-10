@@ -1,0 +1,68 @@
+-- MySQL dump 10.13  Distrib 8.0.34, for Win64 (x86_64)
+--
+-- Host: 127.0.0.1    Database: wiki
+-- ------------------------------------------------------
+-- Server version	8.2.0
+
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
+/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
+/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
+/*!50503 SET NAMES utf8 */;
+/*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;
+/*!40103 SET TIME_ZONE='+00:00' */;
+/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;
+/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;
+/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
+/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
+
+--
+-- Table structure for table `refiners`
+--
+
+DROP TABLE IF EXISTS `refiners`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!50503 SET character_set_client = utf8mb4 */;
+CREATE TABLE `refiners` (
+  `ID` int unsigned NOT NULL AUTO_INCREMENT,
+  `ImageID` int unsigned NOT NULL DEFAULT '0',
+  `Visible` tinyint unsigned NOT NULL DEFAULT '1',
+  `Name` varchar(45) NOT NULL DEFAULT '',
+  `Price` float DEFAULT NULL,
+  `Range` float DEFAULT NULL,
+  `Decay` float DEFAULT NULL,
+  `Uses` float DEFAULT NULL,
+  `Source` varchar(20) NOT NULL DEFAULT '',
+  `Markup` float DEFAULT NULL,
+  `ActivityID` varchar(20) DEFAULT NULL,
+  `Weight` float DEFAULT NULL,
+  `MinTT` float DEFAULT NULL,
+  `DiscVU` int unsigned DEFAULT '0',
+  `Confirmed` text,
+  `PEAuction` float DEFAULT NULL,
+  `EntropiaBay` float DEFAULT NULL,
+  `VUID` varchar(45) DEFAULT NULL,
+  `MaxTT` float DEFAULT '0',
+  PRIMARY KEY (`ID`)
+) ENGINE=MyISAM AUTO_INCREMENT=42 DEFAULT CHARSET=latin1 ROW_FORMAT=DYNAMIC;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `refiners`
+--
+
+LOCK TABLES `refiners` WRITE;
+/*!40000 ALTER TABLE `refiners` DISABLE KEYS */;
+INSERT INTO `refiners` VALUES (20,7033,1,'Genesis Star Basic Refiner',NULL,NULL,0.031,20,'Calypso TT',NULL,NULL,6,0.06,0,NULL,NULL,NULL,'0',2),(21,7033,1,'Transformer T-101',NULL,NULL,0.03,20,'Crafted',1,NULL,5,0.24,0,NULL,NULL,NULL,'210',8),(22,7033,1,'Transformer T-102',NULL,NULL,0.028,21,'Crafted',2,NULL,5,0.6825,0,NULL,NULL,NULL,'210',22.75),(23,7033,1,'Transformer T-103',NULL,NULL,0.026,22,'Crafted',4,NULL,4.5,1.36,0,NULL,NULL,NULL,'210',45.5),(24,7033,1,'Chikara Refiner, Adjusted',NULL,NULL,0.015,22,'Event',2100,NULL,6,0.72,0,NULL,NULL,NULL,'332',24),(25,7033,1,'Refiner MR100',NULL,NULL,0.031,20,'Old TT, Webshop',NULL,NULL,6,0.06,0,NULL,NULL,NULL,'0',2),(26,7033,1,'Transformer T-104',NULL,NULL,0.023,34,'Crafted',8,NULL,4,1.659,0,NULL,NULL,NULL,'210',55.3),(27,7033,1,'Transformer T-105',NULL,NULL,0.021,36,'Crafted',500,NULL,4,2.25,0,NULL,NULL,NULL,'210',75),(28,7031,1,'Imperium Resource Refiner B1',NULL,NULL,0.022,21,'Crafted',10,NULL,6,0.18,0,NULL,NULL,NULL,'362',6),(29,7033,1,'Chikara Refiner MR200',NULL,NULL,0.023,20,'Old time',NULL,NULL,6,0.48,0,NULL,NULL,NULL,'210',16),(30,7033,1,'Chikara Refiner MR300',NULL,NULL,0.022,21,'Old time',NULL,NULL,6,1.05,0,NULL,NULL,NULL,'210',35),(31,7033,1,'Chikara Refiner MR400',NULL,NULL,0.02,30,'Old time',NULL,NULL,5,1.44,0,NULL,NULL,NULL,'210',48),(32,4848,1,'PTech Refiner 1',NULL,NULL,0.03,NULL,'Old TT Arkadia',500,NULL,3,0.06,0,NULL,NULL,NULL,'212',2),(33,4848,1,'PTech Refiner TT',NULL,NULL,0.031,NULL,'Arkadia TT',NULL,NULL,6,0.06,0,NULL,NULL,NULL,NULL,2),(34,7033,1,'Punk Blender',NULL,NULL,0.031,NULL,'Rocktropia TT',NULL,NULL,6,0.06,0,NULL,NULL,NULL,NULL,2),(35,7033,1,'NI Basic Refiner',NULL,NULL,0.031,NULL,'Next Island TT',NULL,NULL,6,0.06,0,NULL,NULL,NULL,NULL,2),(36,7031,1,'Initiate\'s Refiner',NULL,NULL,0.031,NULL,'Cyrene TT',NULL,NULL,6,0.06,0,NULL,NULL,NULL,NULL,2),(37,7032,1,'Demonic Refiner MK-I (L)',NULL,NULL,0.03,NULL,'Crafted',NULL,NULL,6,0.06,0,NULL,NULL,NULL,NULL,2),(38,7031,1,'Imperium Resource Refiner 1A',NULL,NULL,0.03,NULL,'Old TT Cyrene',NULL,NULL,6,0.09,0,NULL,NULL,NULL,NULL,3),(39,7033,1,'Chikara Refiner, Modified',NULL,NULL,0.013,25,'Event',NULL,NULL,6,1.23,0,'Decay',NULL,NULL,'513',41),(40,7033,1,'Genesis Rookie OreRefiner (L)',NULL,NULL,0.11,NULL,'Mission',NULL,NULL,3.5,0.0003,0,NULL,NULL,NULL,NULL,0.01),(41,7033,1,'NI Refiner New Settler Issue',NULL,NULL,0.031,20,'Mission',NULL,NULL,6,0,0,NULL,NULL,NULL,'515',1);
+/*!40000 ALTER TABLE `refiners` ENABLE KEYS */;
+UNLOCK TABLES;
+/*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
+
+/*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
+/*!40014 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS */;
+/*!40014 SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS */;
+/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
+/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
+/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
+/*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
+
+-- Dump completed on 2024-01-10 14:48:36
