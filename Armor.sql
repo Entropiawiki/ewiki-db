@@ -1,0 +1,303 @@
+-- SQL file for Armor.20240130075517.csv
+Name;Weight;Stb;Cut;Imp;Pen;Shr;Brn;Cld;Acd;Elc;Close;Firearms;Total;Durability;Set TT;Mar. (M);Mar. (F);Source;Found on;Personal Effects
+A.R.C. Commander (L);30.2;21;21;21;20;0;15;16;16;0;63;35;130;12000;700.0; ; ;ARC Faction Rank 3;Planet Cyrene; 
+A.R.C. Elite; ;20;20;20;14;0;15;8;8;0;60;29;105;3500; ; ; ;Looted;Planet Cyrene; 
+A.R.C. Elite (L); ;20;20;20;14;0;15;8;8;0;60;29;105;8000; ; ; ;Looted;Planet Cyrene; 
+A.R.C. Guardian;24.0;5;5;5;0;0;0;0;0;0;15;0;15;1400;28.0; ; ;Looted;Planet Cyrene; 
+A.R.C. Hazard (L); ;21;20;9;5;0;15;0;8;0;50;20;78;10400; ; ; ;Looted;Planet Cyrene; 
+A.R.C. Inaugurates (L);30.2;14;14;14;8;0;8;8;12;0;42;16;78;12000;200.0;106.00%;106.00%;ARC Faction Rank 1;Planet Cyrene; 
+A.R.C. Patrol (L);30.2;18;18;18;15;0;12;14;14;0;54;27;109;12000;360.0;110.00%;110.00%;ARC Faction Rank 2;Planet Cyrene; 
+A.R.C. Pilot;30.2;0;0;2;1;0;0;0;0;3;2;1;6;900;30.0; ; ;Old Time;Planet Cyrene; 
+A.R.C. Ranger;30.2;0;5;10;5;0;10;0;0;10;15;15;40;1700;99.4; ; ;Crafted;Planet Cyrene; 
+A.R.C. Special Ops (L); ;0;0;0;0;0;10;0;40;0;0;10;50;6200; ; ; ;Crafted;Planet Cyrene; 
+Adjusted Imperium;30.2;14;14;14;8;0;8;12;25;12;42;16;107;3000;200.0; ; ;Mission;Planet Cyrene;Item Set Bonus - Increased Evade Chance 3/5/10% + Increased Critical Damage 3/5/10%
+Aegis; ;9;9;9;44;9;44;9;9;9;27;97;151;3500; ; ; ;Looted;Next Island; 
+Aegis (L);11.9;9;9;9;44;9;44;9;9;9;27;97;151;14000;570.0; ; ;Crafted;Ancient Greece; 
+Angel;14.5;30;30;30;15;0;15;0;0;0;90;30;120;4000;363.0; ; ;Looted;Planet Calypso; 
+Angel (L);14.5;30;30;30;15;0;15;0;0;0;90;30;120;14000;363.0; ; ;Looted;Planet Calypso; 
+Angel, Adjusted;14.1;30;30;36;26;0;22;0;0;12;96;48;156;4400;363.0; ; ;Mission;Planet Calypso;3 parts: 10% Decrease Critical Damage, 10% Dodge; 5 parts: 15% Decrease Critical Damage, 15% Dodge; 7 parts: 20% Decrease Critical Damage, 20% Dodge
+Angel, FEN Edition;14.1;35;35;35;20;0;20;0;0;0;105;40;145;5500;363.0; ; ;FEN Token Trader;Planet Calypso;7 parts: 15% Decrease Critical Damage, 15% Evade, 15% Dodge
+Angel, Improved;14.6;42;42;42;21;12;21;0;0;12;126;54;192;4800;544.5; ; ;Looted;Planet Calypso; 
+Angel, Modified; ;52;52;52;28;18;28;0;0;18;156;74;248;5600; ; ; ;Looted;Planet Calypso; 
+Angel, SGA Edition;13.5;30;30;30;15;0;15;11;0;0;90;30;131;4500;363.0; ; ;Looted;Planet Calypso; 
+Ankitus;8.6;5;5;5;0;0;5;0;0;0;15;5;20;1800;30.0;66.89 PED;80.75 PED;Looted;Planet Arkadia; 
+Anti Virus (L);17.0;40;0;50;0;0;0;0;0;0;90;0;90;14000;1375.0; ;140.00%;Looted;ROCKtropia; 
+Apocalypse; ;30;30;30;14;6;11;0;0;0;90;31;121;3000; ; ; ;Looted;Next Island; 
+Apocalypse (L);11.9;30;30;30;14;6;11;0;0;0;90;31;121;15000;479.0; ; ;Crafted;Ancient Greece; 
+Aquila;8.6;32;29;28;13;0;17;23;10;0;89;30;152;4000;800.0; ; ;Looted;Planet Arkadia; 
+Aquila (L);8.6;32;29;28;13;0;17;23;10;0;89;30;152;14000;800.0;147.97%;145.88%;Crafted;Planet Arkadia; 
+Arctic (L);14.0;0.5;1;1;0.5;0;0.5;0.5;0;0;2.5;1;4;600;20.4; ; ;TT;Hunt The THING; 
+Arcticus (L);11.9;6;6;22;22;6;6;22;6;0;34;34;96;12000;390.0; ; ;Crafted;Next Island; 
+Ascension Armor;8.6;8;8;8;8;0;8;0;0;0;24;16;40;3500;70.0; ; ;Reward Program;Next Island;10% skill gain in: laser and BLP weapons, Blades and Brawler
+Atlas;8.6;9;9;10;0;0;3;0;5;0;28;3;36;2800;28.6; ; ;Disciple;Next Island; 
+Augmented Imperium; ;29;29;29;8;0;8;24;25;12;87;16;164;4500; ; ; ;Mission;Planet Cyrene; 
+Aurora (L);11.2;12;14;15;11;0;7;2;0;11;41;18;72;12500;391.0; ; ;Looted;Planet Calypso; 
+B.E. Improved;30.2;9;10;9;10;0;10;0;0;0;28;20;48;3000;79.8; ; ;Crafted;Planet Cyrene; 
+B.E. Pilot;30.2;7;7;7;2;0;7;0;0;0;21;9;30;2000;39.9; ; ;Crafted;Planet Cyrene; 
+Baraka; ;8;5;13;0;0;8;0;0;3;26;8;37;0; ; ; ;Looted;Planet Toulan; 
+Baraka (L);8.0;8;5;13;0;0;8;0;0;3;26;8;37;24000; ; ; ;Looted;Planet Toulan; 
+Basic Colonial (L);8.6;1;1;1;1;0;1;0;0;0;3;2;5;9000;20.0; ; ;TT;Planet Calypso; 
+Bear;22.7;15;15;17;9;0;15;14;3;0;47;24;88;2950;502.0; ; ;Looted;Planet Calypso; 
+Bear (L);22.7;15;15;17;9;0;15;14;3;0;47;24;88;12950;502.0; ; ;Looted;Planet Calypso; 
+Bedaya Armor (L);14.0;7;7;0;7;0;0;0;0;0;14;7;21;20000;48.0; ; ;Looted;Planet Toulan; 
+Berserker;14.9;5;5;8;3;0;0;0;0;0;18;3;21;800;122.0; ; ;Crafted;Planet Calypso; 
+Boar;25.0;16;16;19;12;0;16;12;4;0;51;28;95;3100;550.5; ; ;Looted;Planet Calypso; 
+Boar (L);25.0;16;16;19;12;0;16;12;4;0;51;28;95;13100;550.5; ; ;Looted;Planet Calypso; 
+Boar, Adjusted;25.0;16;16;30;20;0;23;12;4;0;62;43;121;3400;550.5; ; ;Mission;Planet Calypso;3 parts: 10% Decrease Critical Damage, 10% Dodge; 5 parts: 15% Decrease Critical Damage, 15% Dodge; 7 parts: 20% Decrease Critical Damage, 20% Dodge
+Boar, SGA Edition;25.0;16;16;22;12;0;16;12;4;0;54;28;98;3200;550.5; ; ;Event;Planet Calypso; 
+BodyGuard;15.6;0;0;1.5;3;0;0;0;0;0;1.5;3;4.5;600;38.6; ; ;Crafted;Planet Calypso; 
+BodyGuard (L);15.6;0;0;1.5;3;0;0;0;0;0;1.5;3;4.5;10600;38.6; ; ;Crafted;Planet Calypso; 
+Bronze Skull Face-Guard; ;1;1;1;1;1;1;1;1;1;3;3;9;3000; ; ; ;Loot Box; ; 
+Canis;8.6;5;6;6;4;0;5;0;0;0;17;9;26;1500;120.0; ; ;Looted;Planet Arkadia; 
+Canis (L);8.6;5;6;6;4;0;5;0;0;0;17;9;26;11500;120.0;175.00%;180.00%;Crafted;Planet Arkadia; 
+Carapace (L); ;0.5;0.5;0.5;0;0;0;0;0;0;1.5;0;1.5;10200; ; ; ;Mission;Planet Arkadia; 
+Carramone;20.0;24;46;72;55;12;44;4;15;21;142;111;293;2500;2850.0; ; ;Looted;Planet Calypso; 
+CDF Scout;2.9;3;3;3;1;0;2;0;0;0;9;3;12;1800;14.5; ; ;Mission;Planet Calypso; 
+Cetus;8.6;12;15;13;24;15;31;0;15;0;40;70;125;3500;500.0; ; ;Looted;Planet Arkadia; 
+Cetus (L);8.6;12;15;13;24;15;31;0;15;0;40;70;125;13500;500.0;115.00%;115.00%;Crafted;Planet Arkadia; 
+Cheap A$$ Armor (C);17.0;0.5;1;1;0.5;0;0.5;0;0;0;2.5;1;3.5;600;20.4; ; ;Crafted;ROCKtropia; 
+Chelydra;8.7;0;0;35;6;0;0;0;0;0;35;6;41;3900;591.0; ; ;Looted;Planet Calypso; 
+Chromatophore Mk. 1 (C)(L);5.7;0;0;10;0;0;0;0;2;0;10;0;12;11000;185.0; ; ;Looted;Planet Calypso; 
+Chromatophore Mk. 2 (C)(L); ;18;17;18;21;0;43;0;0;0;53;64;117;12800; ; ; ;MA only;Planet Calypso; 
+Chronicle;26.7;70;60;13;15;12;9.5;6;4;4.5;143;36.5;194;5000;1621.0; ; ;Looted;Planet Calypso; 
+Chronicle (L);26.7;70;60;13;15;12;9.5;6;4;4.5;143;36.5;194;15000;1621.0; ; ;Looted;Planet Calypso; 
+Chronicle, TEN Edition;27.7;74;65;26;18;14;18;8;10;8;165;50;241;6200; ; ; ;Event;Planet Calypso; 
+Colonizer (L);14.0;5;3;5;0;0;0;0;0;0;13;0;13;700;20.3; ; ;Looted;Planet Calypso; 
+Community Recognition Award;2.1;16;18;20;9;0;13;12;8;0;54;22;96;3350;606.4; ; ;Event;Planet Calypso; 
+Corvus;8.6;4;3;4;2;0;2;0;0;0;11;4;15;1000;60.0; ; ;Looted;Planet Arkadia; 
+Corvus (L);8.6;4;3;4;2;0;2;0;0;0;11;4;15;11000;60.0;120.00%;120.00%;Crafted, Looted;Planet Arkadia; 
+Cyrene Disciple;9.1;11;7;4;3;3;7;0;0;0;22;13;35;2800;28.6; ; ;Disciple;Planet Cyrene; 
+Dark Knight of Arkadia;8.6;45;45;45;35;0;44;0;0;0;135;79;214;5200;2144.0;84000.00 PED;84000.00 PED;Aakas, Looted;Planet Arkadia; 
+Dark Knight of Arkadia (Official); ;0;0;9;0;0;0;0;0;0;9;0;9;25000; ; ; ;Officials only;Planet Arkadia; 
+Deathbringer's Crown; ;10;14;38;0;0;0;10;0;0;62;0;72;4100; ; ; ;Looted;Planet Calypso;1% Focused Blow
+Disco (L);14.0;17;20;22;11;0;16;13;6;5;59;27;110;13350;606.4; ; ;Crafted, Looted;ROCKtropia; 
+Dragon;14.8;7;7;7;3.5;0;3.5;0;0;0;21;7;28;1100;77.0; ; ;Crafted;Planet Calypso; 
+DSEC Armor; ;0;0;0;0;0;0;5;5;5;0;0;15;1100; ; ; ;Looted;DSEC-9; 
+DSEC Armor, Adjusted; ;0;0;0;0;0;0;7;10;14;0;0;31;1400; ; ; ;Mission;DSEC-9; 
+DSEC Armor, Augmented; ;0;0;0;0;0;0;53;50;44;0;0;147;3300; ; ; ;Mission;DSEC-9; 
+DSEC Armor, Improved; ;0;0;0;0;0;0;10;25;22;0;0;57;2000; ; ; ;Mission;DSEC-9; 
+DSEC Armor, Modified; ;0;0;0;0;0;0;20;40;34;0;0;94;2800; ; ; ;Mission;DSEC-9; 
+DSEC Armor, Perfected; ;0;0;12;0;12;20;56;55;47;12;32;202;4400; ; ; ;Mission;DSEC-9; 
+DSEC Scout; ;3;3;3;1;0;2;0;0;0;9;3;12;1800; ; ; ;Mission;Monria; 
+Dune Rider;6.2;28;28;28;28;0;28;0;0;0;84;56;140;3300;704.0;25250.00 PED;17250.00 PED;Aakas, Mined, Looted;Planet Arkadia; 
+Earth Shock Trooper (L);23.9;11;14;24;32;11;28;0;0;0;49;71;120;12000;300.0; ; ;Combat Token Trader;Planet Calypso;3 parts: 20% Increased Critical Damage; 5 parts: 40% Increased Critical Damage; 7 parts: 60% Increased Critical Damage
+eMINE PG;5.3;19;19;19;12;20;12;7;0;7;57;44;115;2700;274.5; ; ;Event;Planet Calypso; 
+eMINE PG (L);16.0;19;19;19;12;20;12;7;0;7;57;44;115;12700;274.5; ; ;Crafted;Planet Calypso; 
+Eon;14.7;28;28;22;52;25;45;5;5;5;78;122;215;5000;1395.0; ; ;Looted;Planet Calypso; 
+Eon (L);14.7;28;28;22;52;25;45;5;5;5;78;122;215;15000;1395.0; ; ;Looted;Planet Calypso; 
+Eon, SGA Edition;14.7;28;28;27;57;25;45;5;5;5;83;127;225;5000;1395.0; ; ;Looted;Planet Calypso; 
+Ethereal Armor;14.1;24;30;30;34;15;42;7;7;7;84;91;196;5500;800.0; ; ;Webshop;Entropia Universe; 
+Expedition;10.5;4.5;4.5;5;5;0;5;9;9;0;14;10;42;1000;171.0; ; ;Crafted;Planet Calypso; 
+Explorer;5.8;4;4;2;4;0;4;0;0;0;10;8;18;800;51.7; ; ;Crafted;Planet Calypso; 
+Firewall (L);14.0;4;0;0;0;0;0;0;0;16;4;0;20;10000;129.5; ; ;Crafted;ROCKtropia; 
+Firewall Mk-II; ;15;0;0;0;0;0;0;0;30;15;0;45;11000; ; ; ;Looted;ROCKtropia; 
+Firewall Mk-II (L);14.0;15;0;0;0;0;0;0;0;30;15;0;45;11000;247.5; ; ;Crafted;ROCKtropia; 
+Firewall Mk-III (L);14.0;20;0;0;0;0;0;0;0;40;20;0;60;12500;495.5; ; ;Crafted;ROCKtropia; 
+Ghost;11.0;13;15;19;1;1;11;12;1;11;47;13;84;2000;348.0; ; ;Crafted;Planet Calypso; 
+Ghost (L);11.0;13;15;19;1;1;11;12;1;11;47;13;84;12000;348.0; ; ;Crafted;Planet Calypso; 
+Ghoul;18.0;14;15;25;5;2;18;15;1;17;54;25;112;2600;474.0; ; ;Crafted;Planet Calypso; 
+Gnome;14.9;0;4;11;0;0;0;0;0;0;15;0;15;1400;28.2; ; ;Looted;Planet Calypso; 
+Goblin;18.4;0;0;12;0;0;0;0;9;0;12;0;21;1200;36.7; ; ;Looted;Planet Calypso; 
+Goblin, SGA Edition;18.4;0;0;12;0;0;0;0;10;0;12;0;22;1400;36.7; ; ;Looted;Planet Calypso; 
+Goldenweave (L); ;15;20;25;0;0;15;0;0;0;60;15;75;9300; ; ; ;Crafted;Planet Cyrene; 
+Gold Rush 2016;8.6;13;16;13;0;0;19;0;0;45;42;19;106;3350;675.0; ; ;Event;Planet Arkadia;3 parts: 5% Acceleration; 5 parts: 5% Acceleration, Skill Gain - Paramedic 8%; 7 parts: 5% Acceleration, Skill Gain - Paramedic 8%, Increase Health 8 pts
+Gorgon;11.9;3;3;6;0;0;0;0;3;0;12;0;15;1100;15.1; ; ;Looted;Ancient Greece; 
+Gorgon, Adjusted;11.9;6;6;13;0;0;0;0;6;0;25;0;31;1400;42.0; ; ; ;Ancient Greece; 
+Gorgon, Augmented;11.9;30;30;62;0;0;0;0;25;0;122;0;147;3300;390.0; ; ; ;Ancient Greece; 
+Gorgon, Improved;11.9;12;12;23;0;0;0;0;10;0;47;0;57;2000;85.9; ; ; ;Ancient Greece; 
+Gorgon, Modified;11.9;20;20;38;0;0;0;0;16;0;78;0;94;2800;220.0; ; ; ;Ancient Greece; 
+Gorgon, Perfected;11.9;41;41;84;0;0;0;0;36;0;166;0;202;4400; ; ; ; ;Ancient Greece; 
+Gremlin;20.1;11;9;15;0;0;12;6;12;2;35;12;67;2950;484.2; ; ;Looted;Planet Calypso; 
+Gremlin, Mentor Edition; ;11;12;17;0;0;12;6;12;2;40;12;72;3150; ; ; ;Mentoring;Entropia Universe; 
+Grunt;14.0;0;3;9;0;0;0;0;0;0;12;0;12;1200;13.2; ; ;Crafted, Looted;ROCKtropia; 
+Grunt (C);14.0;0;3;9;0;0;0;0;0;0;12;0;12;1200;13.2; ; ;Crafted;ROCKtropia; 
+Guardian;17.2;1.5;3;3;1.5;0;3;0;0;0;7.5;4.5;12;600;34.1; ; ;Crafted;Planet Calypso; 
+Guardian, Adjusted; ;2.5;5;5;2.5;0;5;0;0;0;12.5;7.5;20;2000; ; ; ;Looted;Planet Calypso; 
+Haris Armor (L); ;0;5;8;4;0;0;0;0;0;13;4;17;18000; ; ; ;Looted;Planet Toulan; 
+Harrier Assault;10.1;2;2;0;2;0;1;0;0;0;4;3;7;600;12.0; ; ;Starter Pack;Entropia Universe; 
+Harrier Assault, Adjusted;10.1;2;2;2;2;0;1;0;0;0;6;3;9;600;12.0; ; ;Starter Pack;Entropia Universe;7 parts: 8% Acceleration
+Harrier Scout;10.1;1;1;1;1;0;1;0;0;0;3;2;5;600;6.0; ; ;Starter Pack;Entropia Universe; 
+Heran (L);9.0;3;2;3;0;0;0;0;0;0;8;0;8;12000;26.0; ; ;Looted;Planet Toulan; 
+Hermes (L); ;12;13;23;45;33;45;0;0;0;48;123;171;14800; ; ; ;Looted;Planet Calypso; 
+Holy (L);14.0;30;30;30;15;0;15;0;0;10;90;30;130;14000;363.0; ; ;Looted;ROCKtropia; 
+Hoplite (C);11.9;6;6;6;6;0;0;0;0;0;18;6;24;1000;27.0; ; ;Crafted;Ancient Greece; 
+Hunter;13.8;9;9;4.5;9;0;9;0;0;0;22.5;18;40.5;1400;122.3; ; ;Looted;Planet Calypso; 
+Hunter, Mentor Edition;13.8;9;14;4.5;15;0;15;0;0;0;27.5;30;57.5;1680;122.3; ; ;Mentoring;Entropia Universe; 
+Hydra;8.6;10;9;11;16;6;22;6;0;0;30;44;80;2500;400.0; ; ;Looted;Planet Arkadia; 
+Hydra (L);8.6;10;9;11;16;6;22;6;0;0;30;44;80;12500;400.0;110.00%;110.00%;Crafted;Planet Arkadia; 
+HyperSense Spectacles; ;15;13;16;11;0;10;0;0;0;44;21;65;1000; ; ; ;Crafted;Next Island; 
+I.S.O.R. (L); ;0;0;5;22;0;23;0;8;5;5;45;63;10300; ; ; ;Looted;Planet Cyrene; 
+IFN Prototype (L);8.6;0;16;30;15;0;30;0;0;0;46;45;91;13500;500.0;135.00%;135.00%;Arkoin Broker;Planet Arkadia; 
+IFN Prototype MKII (L);8.6;0;15;30;15;0;30;0;0;0;45;45;90;13500;500.0;105.00%;105.00%;Arkoin Broker;Planet Arkadia; 
+Imperial HAZEN;9.0;8;8;8;16;10;55;55;55;55;24;81;270;4300;831.0; ; ;Looted;Planet Calypso; 
+Imperium (L);30.2;20;10;0;5;0;5;0;0;0;30;10;40;1992;448.0; ; ;Looted;Planet Cyrene; 
+Imperium Vet (L); ;10;17;15;10;5;20;10;10;10;42;35;107;13950; ; ; ;Looted;Planet Cyrene; 
+Improved Imperium;30.2;19;19;19;8;0;8;12;25;12;57;16;122;3800;350.0; ; ;Mission;Planet Cyrene;Item Set Bonus - Increased Evade Chance 3/8/15% + Increased Critical Damage 3/8/15%
+Infiltrator (L);12.2;0;0;55;48;29;49;0;34;0;55;126;215;15100;1164.0; ; ;Crafted;Planet Calypso; 
+Infiltrator, Reworked (L);12.2;0;0;69;60;36;61;0;42;0;69;157;268;17300;1164.0; ; ;MA only;Planet Calypso; 
+Initiate's (L);8.6;1;1;1;1;0;1;0;0;0;3;2;5;9000;20.0; ; ;TT;Planet Cyrene; 
+Jaguar;2.1;17;20;22;11;0;16;13;6;0;59;27;105;3350;606.4;12650.00 PED;21965.00 PED;Looted;Planet Calypso; 
+Jaguar (L);2.1;17;20;22;11;0;16;13;6;0;59;27;105;13350;606.4; ; ;Looted;Planet Calypso; 
+Jaguar, Adjusted;2.1;17;20;24;22;6;22;13;6;0;61;50;130;3700;606.4; ; ;Mission;Planet Calypso;3 parts: 10% Decrease Critical Damage, 10% Dodge; 5 parts: 15% Decrease Critical Damage, 15% Dodge; 7 parts: 20% Decrease Critical Damage, 20% Dodge
+Jaguar, SGA Edition;2.1;20;20;22;11;9;16;13;6;0;62;36;117;3400;606.4; ;12861.48 PED;Looted;Planet Calypso;3 parts: 10% Decrease Critical Damage, 10% Dodge; 5 parts: 15% Decrease Critical Damage, 15% Dodge; 7 parts: 20% Decrease Critical Damage, 20% Dodge
+Jarhead (C);14.0;14;21;20;12;2;10;4;2;2;55;24;87;2000;379.0; ; ;Crafted;ROCKtropia; 
+Jarhead (L);14.0;14;21;20;12;2;10;4;2;2;55;24;87;12000;386.0; ; ;Looted;ROCKtropia; 
+Knight;15.1;12;12;12;6;0;6;0;0;0;36;12;48;1900;148.5; ; ;Looted;Planet Calypso; 
+Kobold;14.0;0;3;13;0;0;8;12;0;0;16;8;36;1750;132.8; ; ;Looted;Planet Calypso; 
+Kobold, SGA Edition;14.0;0;3;13;0;0;8;13;0;0;16;8;37;1800;132.8; ; ;Looted;Planet Calypso; 
+Koroma;8.6;5;8;12;0;0;0;10;0;0;25;0;35;2100;40.0;161.00 PED;119.22 PED;Crafted;Planet Arkadia; 
+Liakon;8.6;19;20;21;0;0;0;31;0;0;60;0;91;3000;254.0; ; ;Aakas, Mined, Looted;Planet Arkadia; 
+Lich (L);21.1;30;29;45;2;2;30;15;2;14;104;34;169;14600;758.0; ; ;Crafted;Planet Calypso; 
+Lion;17.7;26;25;23;7;7;7;0;0;14;74;21;109;3600;766.0; ; ;Looted;Planet Calypso; 
+Lotus; ;0;0;52;0;0;0;48;24;24;52;0;148;4700; ; ; ; ; ;3 parts: 5% Evade, 5% Decreased Critical  Dmg; 5 parts: 10% Evade, 10% Decreased Critical  Dmg  Part; 7 parts: 20% Evade, 20% Decreased Critical  Dmg
+Luna (L);11.7;14;12;20;11;5;17;5;1;2;46;33;87;13750;603.0; ; ;Crafted;Planet Calypso; 
+Lupus;8.6;8;6;9;7;0;10;0;6;0;23;17;46;2000;180.2; ; ;Looted;Planet Arkadia; 
+Lupus (L);8.6;8;6;9;7;0;10;0;6;0;23;17;46;12000;180.0;175.00%;180.00%;Crafted;Planet Arkadia; 
+Mah'ketta;8.6;11;15;12;9;0;23;0;0;0;38;32;70;2700;200.0;336.00 PED;332.00 PED;Aakas, Mined, Looted;Planet Arkadia; 
+Malgar; ;6;7;6;2;2;2;2;2;1;19;6;30;1400; ; ; ;Looted, Reward;Monria; 
+Malgar (L);15.2;6;7;6;2;2;2;2;2;1;19;6;30;11400;120.0; ; ;Looted;Monria; 
+Malgar Helmet (M); ;6;7;6;2;2;2;2;2;1;19;6;30;1400; ; ; ;Event; ; 
+Malware (L); ;30;0;40;0;0;0;0;0;0;70;0;70;14000; ; ; ;Crafted;ROCKtropia; 
+Martial (L);12.2;21;23;28;12;8;20;0;0;5;72;40;117;13000;486.7; ; ;Looted;Planet Calypso; 
+Martial, SGA Edition;12.2;21;23;36;12;8;23;0;0;5;80;43;128;4000;486.7; ; ;Looted;Planet Calypso; 
+Mawlood Armor (L);5.5;0;1;2;1;0;0;0;0;0;3;1;4;500;15.6; ; ;TT;Planet Toulan; 
+Mawlood Armor Recruit (L);7.1;0;1;2;1;0;0;0;0;0;3;1;4;10200;3.1; ; ;Looted;Planet Toulan; 
+Mawlood Starter Armor (L); ;1;1;1;1;0;1;0;0;0;3;2;5;9000; ; ; ; ;Planet Toulan; 
+Mayhem;5.3;43.8;43.8;43.8;13.1;13.1;13.1;13.1;13.1;13.1;131.4;39.3;210;3300;660.0; ; ;Mayhem Token Trader;Planet Calypso;3 parts: 1% Faster Reload; 5 parts: 2% Faster Reload; 7 parts: 3% Faster Reload
+Mayhem (L);5.3;43.8;43.8;43.8;13.1;13.1;13.1;13.1;13.1;13.1;131.4;39.3;210;13300;660.0; ; ;Looted;Planet Calypso;3 parts: 1% Faster Reload; 5 parts: 2% Faster Reload; 7 parts: 3% Faster Reload
+Merry Mayhem;18.5;32;30;28;10;0;0;15;30;15;90;10;160;3500;1278.0; ; ;Event;Planet Calypso; 
+MMOWC X1;8.8;15;20;20;15;0;12;12;0;12;55;27;106;3700;500.0; ; ;Event;ROCKtropia; 
+Modified Imperium; ;24;24;24;8;0;8;24;25;12;72;16;149;4100; ; ; ;Mission;Planet Cyrene;Item Set Bonus - Increased Evade Chance ?/?/20% + Increased Critical Damage ?/?/20%
+Moonshine (L);9.1;31;31;35;20;0;20;20;0;0;97;40;157;15400;803.0;150.00%;150.00%;Looted;Planet Arkadia; 
+Musca (L);8.6;2;2;3;0;0;0;0;1;0;7;0;8;10500;40.0;138.00%;138.00%;Crafted, Looted, TT;Planet Arkadia; 
+Musca Adjusted;8.6;8;8;8;0;0;8;0;3;0;24;8;35;2800;28.6;84.00 PED;84.00 PED;Disciple;Planet Arkadia; 
+Necromancer (L);27.3;35;34;48;2;2;35;15;2;15;117;39;188;15000;1164.0; ; ;Crafted;Planet Calypso; 
+Nemesis;16.2;15;15;15;7.5;0;15;0;0;0;45;22.5;67.5;3000;235.1; ; ;Looted;Planet Calypso; 
+Nemesis, Adjusted;16.2;16;16;16;10;0;22;0;0;0;48;32;80;3400;235.1; ; ;Mission;Planet Calypso;3 parts: 10% Decrease Critical Damage, 10% Dodge; 5 parts: 15% Decrease Critical Damage, 15% Dodge; 7 parts: 20% Decrease Critical Damage, 20% Dodge
+Oberon; ;7;7;6;7;7;7;5;8;6;20;21;60;1800; ; ; ;Looted, Reward;Monria; 
+Oberon (L);13.7;7;7;6;7;7;7;5;8;6;20;21;60;11800;240.0; ; ;Looted;Monria; 
+Optimus Prime; ;12;12;15;15;0;13;0;0;0;39;28;67;1500; ; ; ; ;Next Island; 
+Orca (L);11.2;3;4;15;7;0;5;22;0;15;22;12;71;13250;329.0; ; ;Crafted;Planet Calypso; 
+Ozpyn Beetle (L);30.2;25;25;10;10;0;10;10;15;0;60;20;105;13350;364.0; ; ;Looted;Planet Cyrene; 
+Ozpyn Force (L);30.2;20;15;30;0;5;30;10;5;15;65;35;130;14000;650.0;110.00%;110.00%;Looted;Planet Cyrene; 
+Paladin;15.1;6.5;13;13;6.5;0;13;0;0;0;32.5;19.5;52;2200;240.0; ; ;Looted;Planet Calypso; 
+Paladin, TEN Edition; ;8;15;16;9;0;16;0;0;0;39;25;64;2200; ; ; ;Event;Planet Calypso; 
+Paneleon Imperium;27.1;12;12;12;0;0;41;0;0;0;36;41;77;3000;100.1; ; ;Mission;Planet Cyrene; 
+Paneleon Spec Imperium;30.2;0;17;50;0;0;25;0;0;0;67;25;92;3000;150.5; ; ;Mission;Planet Cyrene; 
+Paradox;10.8;16;33;11;10;10;0;0;0;0;60;20;80;3000;780.0; ; ;Looted;Planet Calypso; 
+Pathfinder;12.3;0;4;11;2;0;2;0;2;0;15;4;21;1900;14.0; ; ;Special Code;Planet Calypso; 
+Pegasus; ;17;16;14;43;18;52;0;0;22;47;113;182;4500; ; ; ;Looted;Planet Arkadia; 
+Pegasus (L);8.6;17;16;14;43;18;52;0;0;22;47;113;182;14500;600.0;145.00%;145.00%;Crafted, Looted;Planet Arkadia; 
+Perfected Imperium; ;36;36;36;8;0;8;24;25;12;108;16;185;5200; ; ; ;Mission;Planet Cyrene; 
+Perseus; ;43;40;50;18;0;27;0;24;13;133;45;215;5000; ; ; ;Looted;Planet Arkadia; 
+Perseus (L);8.6;43;40;50;18;0;27;0;24;13;133;45;215;15000;1000.0;150.00%;150.00%;Crafted, Looted;Planet Arkadia; 
+Phantom;14.1;14;15;25;2;1;18;12;1;11;54;21;99;2200;411.0; ; ;Crafted;Planet Calypso; 
+Pinthas; ;3;3;4;3;3;11;11;11;11;10;17;60;2400; ; ; ;Looted, Reward;Monria; 
+Pinthas (L); ;3;3;4;3;3;11;11;11;11;10;17;60;12400; ; ; ;Looted;Monria; 
+Pioneer;9.5;2;2;2;1;0;1;0;0;0;6;2;8;500;22.0; ; ;Crafted;Planet Calypso; 
+Pioneer (L);9.5;2;2;2;1;0;1;0;0;0;6;2;8;10500;66.0;108.00%;108.00%;Crafted;Planet Calypso; 
+Pixie;8.3;0;3;9;0;0;0;0;0;0;12;0;12;1200;14.3; ; ;Looted;Planet Calypso; 
+Pixie, Adjusted;8.3;4;8;11;0;0;0;4;4;4;23;0;35;2800;28.6; ; ;Disciple;Planet Calypso; 
+Pixie, SGA Edition;8.3;0;5;9;0;0;0;0;0;0;14;0;14;1300;14.3; ; ;Looted;Planet Calypso; 
+Polaris (L);12.4;24;29;0;52;26;0;46;0;0;53;78;177;14900;983.0;102.85%;102.85%;Looted;Planet Calypso; 
+Predator (L);11.2;6;9;11;7;0;5;0;0;0;26;12;38;13000;216.5; ; ;Crafted;Planet Calypso; 
+Protector of the Empire;10.3;38;33;31;20;0;25;0;12;19;102;45;178;5000;1359.6; ; ;Event;Planet Calypso; 
+Protector of the Empire TWEN Edition; ;43;38;36;25;0;30;0;20;28;117;55;220;0; ; ; ;Event; ;3 Pieces - 5% Trauma Mitigation 5 Pieces - 10% Trauma Mitigation & 10% Increased Critical Damage 7 Pieces - 15% Trauma Mitigation & 15% Increased Critical Damage
+Raider;11.9;7;7;7;4;0;0;0;0;0;21;4;25;1350;129.0; ; ;Looted;Next Island; 
+Rascal;13.3;0;5;15;0;0;12;0;0;0;20;12;32;1700;60.6; ; ;Crafted;Planet Calypso; 
+Rascal (L);13.3;0;5;15;0;0;12;0;0;0;20;12;32;11700;60.6; ; ;Crafted;Planet Calypso; 
+Raven;10.1;6;20;13;5;5;5;5;5;5;39;15;69;3400;148.0; ; ;Looted;Planet Calypso; 
+Reaper (L); ;37;37;50;2;2;40;19;2;20;124;44;209;15200; ; ; ;Crafted;Planet Calypso; 
+Renegade;12.4;1;0;6;2;0;0;0;0;0;7;2;9;700;65.6; ; ;Crafted;Planet Calypso; 
+Renegade (L);12.4;1;0;6;2;0;0;0;0;0;7;2;9;10700;65.6; ; ;Crafted;Planet Calypso; 
+Rifi Armor (L);9.0;0;0;4;3;0;0;0;0;0;4;3;7;10000;20.0; ; ;Looted;Planet Toulan; 
+Rifi Armor ME;9.0;6;8;11;0;0;0;6;0;4;25;0;35;2800;28.6; ; ;Disciple;Planet Toulan; 
+Roy Vulker's Armor; ;20;25;20;40;20;50;0;0;0;65;110;175;4800; ; ; ;Looted;Planet Cyrene; 
+Rutuba (L); ;37;31;54;49;15;0;9;33;16;122;64;244;15200; ; ; ;Looted;Planet Calypso; 
+RX OpTac x1;9.4;0;11;47;44;21;47;0;0;12;58;112;182;4400;370.0; ; ;Event, Looted;Planet Calypso; 
+RX OpTac x2;9.4;0;15;38;52;30;52;0;0;0;53;134;187;5100;370.0; ; ;Event;Planet Calypso; 
+Sada Armor (L); ;7;0;1;4;0;0;0;0;0;8;4;12;16000; ; ; ;Looted;Planet Toulan; 
+Salamander;11.4;3;4;5;8;5;50;0;0;0;12;63;75;3000;553.0; ; ;Looted;Planet Calypso; 
+Salamander, SGA Edition;11.4;3;8;7;8;5;52;0;0;0;18;65;83;3050;553.0;9559.83 PED; ;Looted;Planet Calypso; 
+Samurai;13.5;4;8;8;4;0;8;0;0;0;20;12;32;1200;93.5; ; ;Crafted;Planet Calypso; 
+Samurai, Adjusted; ;5;10;10;5;0;10;0;0;0;25;15;40;1800; ; ; ;Looted;Planet Calypso; 
+Sand Stormer;8.6;30;35;35;35;0;35;0;0;0;100;70;170;5000;1350.0;28000.00 PED;28000.00 PED;Aakas, Mined, Looted;Planet Arkadia; 
+Scourge; ;12;12;14;0;0;6;6;6;6;38;6;62;2450; ; ; ;Mission;Next Island; 
+Scout;30.2;0;3;2;0;0;3;0;0;3;5;3;11;1050;40.0; ; ;Crafted;Planet Cyrene; 
+Seeker (L);8.6;1;1;4;0;0;0;0;3;0;6;0;9;10500;40.0; ; ;TT;Ancient Greece; 
+Sema (L);11.7;9;9;20;13;2;11;0;4;0;38;26;68;13500;506.8; ; ;Crafted;Planet Calypso; 
+Sentinel;18.2;21.5;21.5;68;59.5;29;6;6;6.5;6;111;94.5;224;5000;1520.0; ; ;Looted;Planet Calypso; 
+Sentinel (L);18.0;21.5;21.5;68;59.5;29;6;6;6.5;6;111;94.5;224;15000;1520.0; ; ;Looted;Planet Calypso; 
+Sentinel, SGA Edition;18.0;25;25;68;59.5;29;18;6;6.5;6;118;106.5;243;5400;1510.0; ; ;Looted;Planet Calypso; 
+Serum (L);12.2;15;15;19;7;3;6;0;16;0;49;16;81;14000;646.7; ; ;Crafted;Planet Calypso; 
+Settler;10.1;0.5;1;1;0.5;0;0.5;0;0;0;2.5;1;3.5;600;20.4;0.00 PED;0.00 PED;Crafted;Planet Calypso; 
+Settler, Adjusted; ;1;2;2;1;0;1;0;0;0;5;2;7;1000; ; ; ;Old Time;Planet Calypso; 
+Shade; ;19;19;19;6;6;6;5;5;5;57;18;90;2500; ; ; ;Looted, Reward;Monria; 
+Shade (L);15.2;19;19;19;6;6;6;5;5;5;57;18;90;12500;360.0; ; ;Looted;Monria; 
+Shadow;16.3;23;46;46;23;0;46;0;0;0;115;69;184;5000;561.0;45559.00 PED; ;Looted;Planet Calypso; 
+Shadow (L);16.3;23;46;46;23;0;46;0;0;0;115;69;184;15000;561.0; ; ;Looted;Planet Calypso; 
+Shadow, Modified;17.9;30;60;60;30;8;60;0;8;8;150;98;264;6000;841.0; ; ;Looted;Planet Calypso; 
+Shadow, SGA Edition;16.3;23;49;46;23;0;46;0;0;0;118;69;187;5100;561.0; ; ;Looted;Planet Calypso; 
+Shogun;13.3;10;10;10;5;0;10;0;0;0;30;15;45;1700;140.3; ; ;Looted;Planet Calypso; 
+Shogun, Improved; ;24;24;24;12;9;24;0;0;9;72;45;126;2300; ; ; ;Looted;Planet Calypso; 
+Shogun, SGA Edition;13.3;11;11;10;5;0;10;0;0;0;32;15;47;1800;140.3; ; ;Looted;Planet Calypso; 
+Sigyn;9.5;8;12;5;5;0;10;0;52;0;25;15;92;2600;730.0; ; ;Looted;Planet Calypso; 
+Silverstitch;42.0;0;6;7;1;0;6;0;0;0;13;7;20;1600;39.9; ; ;Crafted;Planet Cyrene; 
+Smuggler armor; ;0;0;35;35;35;35;0;0;0;35;105;140;5000; ; ; ;Looted; ; 
+Solir (L);12.2;19;23;26;15;0;12;0;0;0;68;27;95;14500;829.0; ; ;Crafted;Planet Calypso; 
+Spam (L);14.0;25;0;35;0;0;0;0;0;0;60;0;60;14000;550.0; ; ;Crafted;ROCKtropia; 
+Spartacus (L); ;44;45;28;48;13;13;0;0;0;117;74;191;15000; ; ; ;Looted;Planet Calypso; 
+Special Issue (L);10.1;3;3;0;0;0;0;0;0;0;6;0;6;1200;3.0; ; ;Promotion;Entropia Universe; 
+Special Ops (C,L);17.0;44;45;28;48;13;13;0;0;0;117;74;191;15000;943.0; ; ;Looted;ROCKtropia; 
+Special Ops (L); ;44;45;28;48;13;13;0;0;0;117;74;191;15000; ; ; ; ;ROCKtropia; 
+Spectre (L);20.1;18;15;31;2;2;28;13;1;14;64;32;124;14000;640.0; ; ;Crafted;Planet Calypso; 
+Spina; ;75;15;75;75;15;15;0;30;0;165;105;300;0; ; ; ;Crafted; ; 
+Stealth (C,L);14.0;21;23;28;12;8;20;0;0;5;72;40;117;13000;486.7; ; ;Crafted;ROCKtropia; 
+Stealth (L);17.0;21;23;28;12;8;20;0;0;5;72;40;117;13000;486.7; ; ;Looted;ROCKtropia; 
+Stolen Imperium;30.2;14;14;14;8;0;8;12;25;12;42;16;107;3000;200.0; ; ;Mission;Planet Cyrene; 
+Supremacy;27.7;25;49;49;30;0;49;9;11;12;123;79;234;5200;2144.0;98605.00 PED;89950.00 PED;Looted;Planet Calypso; 
+Supremacy (L);27.7;25;49;49;30;0;49;9;11;12;123;79;234;15200;2144.0; ; ;Looted;Planet Calypso; 
+Supremacy, SGA Edition;27.7;27;51;51;39;3;55;9;11;12;129;97;258;5600;2144.0; ; ;Looted;Planet Calypso; 
+Thorifoid Berserker's Helm (L); ;6;9;17;0;0;0;0;0;0;32;0;32;7200; ; ; ;Looted;Planet Calypso; 
+Thorifoid Berserker's Helm Flimsy (L); ;3;5;10;0;0;0;0;0;0;18;0;18;4800; ; ; ;Looted;Planet Calypso; 
+Thorifoid Berserker's Helm Superior; ;8;12;25;0;0;0;0;0;0;45;0;45;2400; ; ; ;Looted;Planet Calypso; 
+Thunderbird;10.7;8;12;5;5;0;10;0;0;50;25;15;90;2500;730.0; ; ;Looted;Planet Calypso; 
+Thunderbird (L);10.7;8;12;5;5;0;10;0;0;50;25;15;90;12500;730.0; ; ;Looted;Planet Calypso; 
+Tiger;17.1;17;20;25;12;0;19;12;8;0;62;31;113;3500;680.9; ; ;Looted;Planet Calypso; 
+Tiger (L);17.1;17;20;25;12;0;19;12;8;0;62;31;113;13500;680.9; ; ;Looted;Planet Calypso; 
+Titan; ;60;0;60;0;0;0;30;0;30;120;0;180;5200; ; ; ;Looted;Ancient Greece;Titanic Might: 20% Evade 25% Reduced Critical Damage
+Trojan; ;4;4;4;4;0;0;0;0;0;12;4;16;1000; ; ; ;Crafted, Mission;Next Island; 
+Trooper;10.8;2;2;2;14;5;8;0;0;2;6;27;35;1500;173.0; ; ;Crafted;Planet Calypso; 
+Turrelion;30.2;0;5;7;1;0;0;3;0;0;12;1;16;1400;15.4; ; ;Token Trader;The Hub; 
+Turrelion Homeland;30.2;1;2;1;1;1;0;1;1;1;4;2;9;6000;282.6; ; ;Token Trader;The Hub; 
+Turrelion Spec; ;1;1;1;1;1;1;1;1;1;3;3;9;600; ; ; ;Token Trader;The Hub; 
+Unique Lady Kraster; ;34;23;44;93;12;72;3;6;28;101;177;315;1300; ; ; ;Event;Planet Calypso; 
+Unique Lord Kraster; ;34;23;44;93;12;72;3;6;28;101;177;315;1300; ; ; ;Event;Planet Calypso; 
+Ursa;8.6;15;21;18;10;0;12;10;0;15;54;22;101;3000;600.0; ; ;Looted;Planet Arkadia; 
+Ursa (L);8.6;15;21;18;10;0;12;10;0;15;54;22;101;13000;600.0;108.00%;108.00%;Crafted;Planet Arkadia; 
+Vain;24.8;50;46;18;51;18;10;6;9;9;114;79;217;5000;1565.0; ; ;Looted;Planet Calypso; 
+Vain (L);24.8;50;46;18;51;18;10;6;9;9;114;79;217;15000;1565.0; ; ;Looted;Planet Calypso; 
+Valiant;11.4;0;0;0;0;0;6;0;0;0;0;6;6;600;52.1; ; ;Crafted;Planet Calypso; 
+Vampire;13.3;5;0;0;4;0;3;0;0;0;5;7;12;700;81.3; ; ;Crafted;Planet Calypso; 
+Viceroy;8.6;11;9;15;0;0;12;8;14;0;35;12;69;3000;400.0; ; ;Mission;Planet Arkadia; 
+Viceroy Adjusted;8.6;11;11;16;0;0;12;9;15;0;38;12;74;3250;400.0; ; ;Mission;Planet Arkadia;3 parts: +5% Evade; 5 parts: +10% Evade; 7 parts: +10% Evade & +0.2% Critical Hit Chance
+Viceroy Adjusted - Skullcandy Edition; ;11;11;16;0;0;12;9;15;0;38;12;74;3250; ; ; ;Mission;Planet Arkadia;3 parts: +5% Evade; 5 parts: +10% Evade; 7 parts: +10% Evade & +0.2% Critical Hit Chance
+Viceroy Improved; ;13;12;17;0;0;14;11;17;0;42;14;84;3500; ; ; ;Mission;Planet Arkadia;3 parts: +5% Evade; 5 parts: +10% Evade; 7 parts: +15% Evade & +0.4% Critical Hit Chance
+Viceroy Modified;8.6;15;14;19;0;0;16;11;19;0;48;16;94;3800;400.0; ; ;Mission;Planet Arkadia;3 parts: +10% Evade; 5 parts: +15% Evade; 7 parts: +20% Evade & +1% Critical Hit Chance
+Viceroy Modified - Skullcandy Edition;8.6;15;14;19;0;0;16;11;19;0;48;16;94;3800;400.0; ; ;Mission;Planet Arkadia;3 parts: +10% Evade; 5 parts: +15% Evade; 7 parts: +20% Evade & +1% Critical Hit Chance
+Viceroy - Skullcandy Edition;8.6;11;9;15;0;0;12;8;14;0;35;12;69;3000;400.0; ; ;Mission;Planet Arkadia; 
+Vigilante;19.2;14;14;7;14;0;14;0;0;0;35;28;63;2550;211.8; ; ;Looted;Planet Calypso; 
+Vigilante, Adjusted;19.2;14;14;9;18;10;18;0;0;0;37;46;83;2750;211.8;1400.00 PED; ;Mission;Planet Calypso;3 parts: 10% Decrease Critical Damage, 10% Dodge; 5 parts: 15% Decrease Critical Damage, 15% Dodge; 7 parts: 20% Decrease Critical Damage, 20% Dodge
+Vigilante, Augmented; ;28;28;14;28;9;28;0;0;9;70;65;144;3300; ; ; ;Mission;Planet Calypso; 
+Vigilante, Modified;19.2;14;14;12;26;16;23;0;0;8;40;65;113;3000;211.8; ; ;Mission;Planet Calypso;3 parts: 10% Decrease Critical Damage, 10% Dodge; 5 parts: 15% Decrease Critical Damage, 15% Dodge; 7 parts: 25% Decrease Critical Damage, 25% Dodge
+Vigilante, SGA Edition;19.2;14;14;7;16;0;22;0;0;0;35;38;73;2900;211.8; ; ;Looted;Planet Calypso;3 parts: 10% Decrease Critical Damage, 10% Dodge; 5 parts: 15% Decrease Critical Damage, 15% Dodge; 7 parts: 20% Decrease Critical Damage, 20% Dodge
+Viking;9.8;6;4;1.5;2.5;1;1;50;5;0;11.5;4.5;71;3000;615.0; ; ;Looted;Planet Calypso; 
+Vindicator;14.9;2;11;4;5;0;2;0;0;0;17;7;24;800;137.5; ; ;Crafted;Planet Calypso; 
+Wannabe (L);8.6;1;1;1;1;0;1;0;0;0;3;2;5;9000;20.0; ; ;TT;ROCKtropia; 
+Warmonger;12.9;17;17;17;10;0;0;0;0;0;51;10;61;2400;295.0; ; ;Looted;Next Island; 
+Warrior;14.3;5;5;5;2.5;0;5;0;0;0;15;7.5;22.5;1100;65.4; ; ;Crafted;Planet Calypso; 
+Wormslayer;12.6;32;43;32;46;22;46;0;25;0;107;114;246;6400;888.0; ; ;Looted;Planet Calypso; 
+XFire Survival (L);12.2;10;13;23;17;0;11;0;0;0;46;28;74;12000;353.0; ; ;Xfire Event;Planet Calypso; 
+Zeraf Armor (L); ;0;0;4;3;0;0;0;0;5;4;3;12;14000; ; ; ;Looted;Planet Toulan; 
+Zombie;25.0;10;12;17;1;1;10;10;1;10;39;12;72;1800;325.0; ; ;Crafted;Planet Calypso; 
+Zombie (L);25.0;10;12;17;1;1;10;10;1;10;39;12;72;11800;305.0; ; ;Crafted;Planet Calypso; 
